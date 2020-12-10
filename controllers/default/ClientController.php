@@ -98,7 +98,7 @@ class ClientController extends Controller
 			}
 		}
 		array_shift($data);
-		$this->render('order', $data, $title);
+		$this->render('order', $data, $title); 
 	}
 	
 }
