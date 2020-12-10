@@ -1,1 +1,0 @@
-var APP_URL = 'http://localhost/WBH/';
